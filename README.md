@@ -4,11 +4,3 @@ Note: Due to file upload limitations of GitHub (100MB per file), the dataset use
 
 Link: https://www.kaggle.com/datasets/whenamancodes/flight-delay-prediction 
 
-
-### Result for test run:
-
-Neural network with one hidden layer 
-
-Mean Error: 0.92045
-
-Root Mean Square Error: 0.959400854700474
